@@ -1,7 +1,7 @@
 # 🤖💥 Welcome to **NeuralSnax's Lab** 🍿  
 _Where code learns, snacks back, and sometimes... breaks reality._
 
-![Neural Network](https://media.giphy.com/media/QTG9zThQz3Qw8/giphy.gif)
+
 
 ---
 
@@ -53,5 +53,3 @@ _Stay weird, stay curious,_
 **🧃 Rahul aka NeuralSnax**
 
 ---
-
-![AI Vibes](https://media.giphy.com/media/kY6xwpz1eQZlu/giphy.gif)
